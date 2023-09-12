@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Kanit:ital,wght@0,400;0,500;1,400;1,500&family=Play:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Play", sans-serif;
+  font-size: 20px;
+}
+
+.navbar {
+  background-color: black !important;
+}
+.card-title{
+  background-color: rgb(28, 32, 43);
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+
+}
+
+
+.p-50 {
+  padding: 50px 0 ;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.padding {
+  padding-top: 15rem;
+}
